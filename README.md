@@ -7,7 +7,7 @@ The analysis focuses on **profitability, sales trends, regional performance, ret
 
 ---
 ## Dashboard screen
-<img width="1608" height="1902" alt="Adidas US Sales  Dashboard" src="https://github.com/user-attachments/assets/a41ca821-a093-4c66-8162-5e25c4d97e99" />
+<img width="1608" height="1902" alt="Adidas US Sales  Dashboard" src="https://github.com/user-attachments/assets/b044f685-464e-4cd0-8c16-1052b7e1b34d" />
 
 
 ## Key Business Metrics
