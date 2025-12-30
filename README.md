@@ -7,7 +7,8 @@ The analysis focuses on **profitability, sales trends, regional performance, ret
 
 ---
 ## Dashboard screen
-<img width="1608" height="1922" alt="Adidas Sales Dashboard3" src="https://github.com/user-attachments/assets/28d5b860-bbfb-455b-a4f2-58c99a12eb0b" />
+<img width="1608" height="1902" alt="Adidas US Sales  Dashboard" src="https://github.com/user-attachments/assets/a41ca821-a093-4c66-8162-5e25c4d97e99" />
+
 
 ## Key Business Metrics
 The dashboard highlights the following core performance indicators:
